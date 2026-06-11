@@ -6,6 +6,7 @@ A daily news briefing generated each morning, covering world affairs, technology
 
 | Date | File |
 |------|------|
+| 2026-06-11 | [briefing-2026-06-11.md](briefing-2026-06-11.md) |
 | 2026-06-10 | [briefing-2026-06-10.md](briefing-2026-06-10.md) |
 | 2026-06-09 | [briefing-2026-06-09.md](briefing-2026-06-09.md) |
 | 2026-06-08 | [briefing-2026-06-08.md](briefing-2026-06-08.md) |
